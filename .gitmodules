@@ -1,0 +1,3 @@
+[submodule "v-gogreen"]
+	path = v-gogreen
+	url = https://github.com/vce-cse-dept/conf-v-gogreen.git
