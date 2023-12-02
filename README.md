@@ -1,4 +1,4 @@
-# Events Organized at Vardhaman College of Engineering
+# Vardhaman College of Engineering
 
 > This repository hosts all events website repos as submodules and uses GitHub pages to deploy them on [events.vardhaman.org](https://events.vardhaman.org/).
 
